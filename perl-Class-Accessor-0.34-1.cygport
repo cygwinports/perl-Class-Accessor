@@ -1,0 +1,6 @@
+CPAN_AUTHOR=kasei
+inherit perl
+
+
+DESCRIPTION="This Perl module automagically generates accessors/mutators for
+your class."

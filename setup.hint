@@ -1,5 +1,0 @@
-category: Perl
-requires: perl
-sdesc: "Perl accesssor/mutator module"
-ldesc: "This Perl module automagically generates accessors/mutators for 
-your class."
