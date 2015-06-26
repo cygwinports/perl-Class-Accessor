@@ -1,6 +1,12 @@
 CPAN_AUTHOR=kasei
 inherit perl
 
-
+NAME="perl-Class-Accessor"
+VERSION=0.34
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl distribution Class-Accessor"
 DESCRIPTION="This Perl module automagically generates accessors/mutators for
 your class."
+
+ARCH=noarch
